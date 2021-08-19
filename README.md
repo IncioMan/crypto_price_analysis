@@ -6,12 +6,20 @@ The goal was to identify patterns and exploit them to plan an investment strateg
 
 We tried to answer questions such as:
 
-* Has it been more profitable to  it more profitable to implement a weekly DCA (Dollar Cost Avaraging) investment over a monthly one for a specific coin?
+**Question**
+
+Has it been more profitable to to implement a weekly DCA (Dollar Cost Avaraging) investment over a monthly one for a specific coin?
+
+**Answer**
 
 We observed that the monthly DAC has provided both the highest and lowest profits. We therefore conclude that the best approach for those aiming at maximising the profit should use a monthly approach. As long as the right day in the month is picked to invest, since the risk is to lower the profit if the wrong day is picked. A following analysis will try to identify the best day of month to invest for a specific coin.
 For a more stable profit, biweekly seems to provide more constant profits, regardless of the days on which the investment is made.
 
-* In case of a monthly DAC, what was the day of the month that historically provided the most profit?
+**Question**
+
+In case of a monthly DAC, what was the day of the month that historically provided the most profit?
+
+**Answer**
 
 One question we addressed was to identify the most profitable day of the month for a monthly DCA strategy on a specific portolio of currencies.
 
