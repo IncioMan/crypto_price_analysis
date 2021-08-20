@@ -35,7 +35,7 @@ In case of a weekly DCA, what was the day of the week that historically provided
 
 It turned out that for a portfolio comprised of [BTC](https://bitcoin.org/da/), [ETH](https://ethereum.org/en/) and [DOT](https://polkadot.network/) the day providing the highest profit was <ins>Friday</ins>.
 
-![Screenshot](images/weekly.png)
+![Screenshot](images/weekly.jpeg)
 
 For the complete analysis see [notebook](./notebooks/weekly_DCA_most_profitable_day.ipynb)
 
@@ -48,7 +48,7 @@ In case of a monthly DCA, what was the day of the month that historically provid
 It turned out that for a portfolio with 50% [BTC](https://bitcoin.org/da/), 40% [ETH](https://ethereum.org/en/) and 10% [ADA](https://cardano.org/) the day of month providing the highest profit was the <ins>31st</ins>.
 
 
-![Screenshot](images/monthly.png)
+![Screenshot](images/monthly.jpeg)
 
 For the complete analysis see [notebook](./notebooks/monthly_DCA_most_profitable_day.ipynb)
 
