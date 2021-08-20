@@ -62,7 +62,7 @@ In case of a twice-a-month DCA, what was the combination of days of the month th
 
 **Answer**
 
-We analysed this usecase for [ADA](https://cardano.org/). Our results show that the top 10 best scoring combinations (with little delta profits among them) can be grouped into two categories: 
+We analysed this usecase for one single coin: [ADA](https://cardano.org/). Our results show that the top 10 best scoring combinations (with little delta profits among them) can be grouped into two categories: 
 
 * Buying in the middle and at the end/beginning
 * Buying both times in the middle
@@ -72,3 +72,18 @@ This suggests that half way through the month is a good spot to buy, even twice.
 In our case the most profitable pair was the 1st day of the month and the 17th.
 
 For the complete analysis see [notebook](./notebooks/twice_a_month_DCA_most_profitable_days.ipynb)
+
+We then analysed this case for a portfolio of coins: 60% [ETH](https://ethereum.org/en/), 20% [ADA](https://cardano.org/) and 20% [DOT](https://polkadot.network/).
+
+![Screenshot](images/portfolio_twice_a_month.jpeg)
+
+The results suggest that for the coins in question, the best combination of days is 0-26. However it is interesting to observe that the top 10 combinations include 3 date ranges:
+
+* The first day of the month
+* The middle of the month, with the 13th and 14th days
+* Close to the end of the month, with the 27th and 28th days
+
+This suggests that half way through the month and right before the end are a good spot to buy, even twice. Otherwise it is better to distantiate the purchases by more than two weeks, either starting at the beginning and buying right before the end, or buying in the middle and before the end.
+
+For the complete analysis see [notebook](./notebooks/portfolio_twice_a_month_DCA_most_profitable_days.ipynb)
+
