@@ -4,6 +4,10 @@ This repository contains notebooks used to analyse prices flactuations for diffe
 
 The goal was to identify patterns and exploit them to plan an investment strategy accordingly.
 
+**Dataset**
+
+The dataset used for this analysis has been obtained from [Kaggle](https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory) in July 2021 and can be found [here](./data).
+
 **Assumptions**
 
 The dataset provided the highest and lowest price for a coin on each day. We only considered the highest price in our analysis. In this way we assumed to operate in the worst case scenario where we buy for the highest price of that day.
